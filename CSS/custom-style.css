@@ -23,29 +23,19 @@ section {
 .col-12 {width: 100%;}
 
 .nav-link {
-
   padding: 20px;
-
   margin: 20px;
-
 }
 
-
-
 .flex-container > div {
-
   background-color: white;
-
   width: 200px;
 
   /* margin: 300px; */
 
   text-align: center;
-
   line-height: 400px;
-
   font-size: 14px;
-
 }
 
 .sticky {
